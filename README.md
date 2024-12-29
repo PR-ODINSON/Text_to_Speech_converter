@@ -8,7 +8,7 @@ A simple graphical user interface (GUI) application built using Python for conve
 - User-friendly interface for ease of use.
 
 ## Requirements
-- Python 3.6+
+- Python 3.6+ version
 - Required Python libraries:
   - `pyttsx3`
   - `tkinter`
