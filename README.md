@@ -23,7 +23,7 @@ A simple graphical user interface (GUI) application built using Python for conve
    ```bash
    pip install pyttsx3
    ```
-   Note: `tkinter` is typically included with standard Python installations. If it's missing, you can install it using your OS package manager.
+   Note: `tkinter` is typically included with standard Python installations. If it's missing, you can install it using your OS package manager!
 
 ## How to Use
 1. Run the application:
